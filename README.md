@@ -9,7 +9,7 @@
 
 ---
 
-##Overview
+## Overview
 
 This poster presents an analysis of airborne pollen concentrations and their relationships with meteorological conditions across three regions in Greece: Athens, Thessaloniki, and Finokalia.
 
